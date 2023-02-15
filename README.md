@@ -53,7 +53,7 @@ Data Visualization Jupyter Notebook:
 
 Limitations: 
     - Limited to ten years of data for S&P 500 and DowJones Indexes, influencing our abililty to test for correlation.
-    -Long periods of little change in the federal funds rate over the past 10 years may be an outlier when looking at longer periods of time.
+    - Long periods of little change in the federal funds rate over the past 10 years may be an outlier when looking at longer periods of time.
     
     
 Conclusions:
